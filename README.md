@@ -11,13 +11,7 @@
 *   **役割/専門:** [例: Webエンジニア / データサイエンティスト / 学生]
 *   **興味のある分野:** [例: 機械学習、フロントエンド開発、クラウド技術、UI/UXデザイン]
 *   **連絡先:**
-    *   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](ここにあなたのGitHubプロフィールURL)
-    *   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](ここにあなたのTwitter URL (もしあれば))
-    *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ここにあなたのLinkedIn URL (もしあれば))
-    *   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Todoist&logoColor=white)](ここにあなたのポートフォリオサイトURL (もしあれば))
-    *   [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](ここにあなたのブログURL (もしあれば))
-
----
+    
 
 ##  目標 (Goals)
 
